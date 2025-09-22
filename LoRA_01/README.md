@@ -13,8 +13,6 @@
 
 ![図4](./work/slide_04.png)
 
-![図5](./work/slide_05.png)
-
 ## 詳細
 
 作成予定
